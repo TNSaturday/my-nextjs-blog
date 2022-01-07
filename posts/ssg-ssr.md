@@ -1,6 +1,6 @@
 ---
 title: 'When to Use Static Generation v.s. Server-side Rendering'
-date: '2020-01-02'
+date: '2022-01-07'
 ---
 
 I recommend using **Static Generation** (with and without data) whenever possible because 
